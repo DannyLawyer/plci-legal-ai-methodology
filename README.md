@@ -60,7 +60,7 @@ PLCI 以“分层保存、精确定位、状态分离、人工把关”为核心
 
 ## 作者
 
-由 [dannyye-hub](https://github.com/dannyye-hub) 以个人法律 AI 实践项目形式维护。职业信息以该 GitHub 账号中主动公开的内容为准。
+由 [DannyLawyer](https://github.com/DannyLawyer) 以个人法律 AI 实践项目形式维护。职业信息以该 GitHub 账号中主动公开的内容为准。
 
 ## 许可
 

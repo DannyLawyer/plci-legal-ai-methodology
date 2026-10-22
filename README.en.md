@@ -28,4 +28,4 @@ It is not legal advice, deployable software, or a substitute for source, licensi
 - [Clause library boundaries](docs/clause-library-boundaries.md)
 - [Quality and disclosure](docs/quality-and-disclosure.md)
 
-Maintained as a personal legal AI practice portfolio by [dannyye-hub](https://github.com/dannyye-hub). Documentation is licensed under [CC BY-NC 4.0](LICENSE).
+Maintained as a personal legal AI practice portfolio by [DannyLawyer](https://github.com/DannyLawyer). Documentation is licensed under [CC BY-NC 4.0](LICENSE).
