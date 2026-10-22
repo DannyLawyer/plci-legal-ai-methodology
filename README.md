@@ -58,9 +58,12 @@ PLCI 以“分层保存、精确定位、状态分离、人工把关”为核心
 - **不构成可直接部署的软件产品**，不承诺特定技术实现、性能或结果；
 - **不替代对具体来源、许可或法律适用性的审查**，公开描述不能作为任何交易或合规决策的唯一依据。
 
-## 作者
+## 作者与联系
 
-由 [DannyLawyer](https://github.com/DannyLawyer) 以个人法律 AI 实践项目形式维护。职业信息以该 GitHub 账号中主动公开的内容为准。
+[DannyLawyer](https://github.com/DannyLawyer) 专注于法律 AI、可追溯法律知识工作流与人机协同治理。本仓库作为个人法律 AI 实践项目维护；职业信息以 GitHub 账号中主动公开的内容为准。
+
+- GitHub：[DannyLawyer](https://github.com/DannyLawyer)
+- 邮箱：[dannyye@foxmail.com](mailto:dannyye@foxmail.com)
 
 ## 许可
 

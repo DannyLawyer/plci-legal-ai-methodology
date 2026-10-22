@@ -28,4 +28,11 @@ It is not legal advice, deployable software, or a substitute for source, licensi
 - [Clause library boundaries](docs/clause-library-boundaries.md)
 - [Quality and disclosure](docs/quality-and-disclosure.md)
 
-Maintained as a personal legal AI practice portfolio by [DannyLawyer](https://github.com/DannyLawyer). Documentation is licensed under [CC BY-NC 4.0](LICENSE).
+## Author and contact
+
+[DannyLawyer](https://github.com/DannyLawyer) focuses on legal AI, traceable legal knowledge workflows, and human-in-the-loop governance. This repository is maintained as a personal legal AI practice portfolio.
+
+- GitHub: [DannyLawyer](https://github.com/DannyLawyer)
+- Email: [dannyye@foxmail.com](mailto:dannyye@foxmail.com)
+
+Documentation is licensed under [CC BY-NC 4.0](LICENSE).
